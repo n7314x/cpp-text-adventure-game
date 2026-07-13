@@ -1,0 +1,28 @@
+#ifndef GAME_H
+#define GAME_H
+
+void welcomePage();
+void forestPath();
+void riverPath();
+void aboutGame();
+void searchRiver();
+void moveUpTheRiver();
+void investigateNoise();
+void continueWalkingOnPath();
+void keepSearchingRiver();
+void enterVillage();
+void continueUpRiver();
+void lookForHouse();
+void talkToSomeone();
+void generalStore();
+void exploreShed();
+void lookOnShelves();
+void openTrapdoor();
+void leaveShed();
+void talkToBlacksmith();
+void talkToRandom();
+void acceptHotelOffer();
+void rejectHotelOffer();
+void gameEnd();
+
+#endif
