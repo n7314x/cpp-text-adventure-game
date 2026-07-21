@@ -1,5 +1,4 @@
-#ifndef GAME_H
-#define GAME_H
+#pragma once
 
 void welcomePage();
 void forestPath();
@@ -24,5 +23,3 @@ void talkToRandom();
 void acceptHotelOffer();
 void rejectHotelOffer();
 void gameEnd();
-
-#endif
